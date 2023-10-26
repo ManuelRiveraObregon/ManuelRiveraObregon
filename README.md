@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+📚 I’m currently learning Systems Engineering 💻🧠 at Universidad Nacional Mayor de San Marcos🏫🎓, in Lima - Perú 🇵🇪.
+
+⚡ Fun fact: Cats have over 100 vocal sounds, while dogs only have about ten.
 <!--
 **ManuelRiveraObregon/ManuelRiveraObregon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
